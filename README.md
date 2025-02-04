@@ -15,7 +15,13 @@ The program provides a menu-driven interface for managing files efficiently.
 
 🚀 Features
 
-✅ Create a file and add it to a directory✅ Rename an existing file✅ Delete a file from a directory✅ Print all files within a directory✅ Interactive user input system✅ Simple and intuitive interface 🖥️✅ No external dependencies required 📌
+✅ Create a file and add it to a directory
+✅ Rename an existing file
+✅ Delete a file from a directory
+✅ Print all files within a directory
+✅ Interactive user input system
+✅ Simple and intuitive interface 🖥️
+✅ No external dependencies required 📌
 
 🛠️ How to Run
 
